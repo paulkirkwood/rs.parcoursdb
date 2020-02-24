@@ -531,8 +531,6 @@ pub fn la_ferte_sous_jouarre() -> Location { french_location("La Ferte-sous-Joua
 
 pub fn la_fouillouse() -> Location { french_location("La Fouillouse", None) }
 
-pub fn la_grand_motte() -> Location { french_location("La Grand-Motte", None) }
-
 pub fn la_grande_motte() -> Location { french_location("La Grande-Motte", None) }
 
 pub fn la_guerche_de_bretagne() -> Location { french_location("La Guerche-de-Bretagne", None) }

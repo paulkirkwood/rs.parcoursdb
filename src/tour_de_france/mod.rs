@@ -1756,7 +1756,7 @@ pub fn tour_de_france_1972() -> StageRace {
         .road_stage(&bayonne(), &pau(), 220.5)
         .road_stage(&pau(), &luchon(), 163.5)
         .road_stage(&luchon(), &colomiers(), 179.0)
-        .road_stage(&castres(), &la_grand_motte(), 210.0)
+        .road_stage(&castres(), &la_grande_motte(), 210.0)
         .mountain_stage(&carnon_plage())
         .summit_finish(&mont_ventoux(), ColCategory::HC, Distance::new(207,0))
         .mountain_stage(&carpentras())
