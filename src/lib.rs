@@ -9,6 +9,7 @@ pub mod location;
 pub mod pave;
 pub mod stage_race;
 pub mod mountains;
+pub mod seasons;
 
 /*
  * Classics

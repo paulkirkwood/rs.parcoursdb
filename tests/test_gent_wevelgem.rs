@@ -3,7 +3,7 @@ extern crate chrono;
 
 #[cfg(test)]
 mod test {
-    use parcoursdb::gent_wevelgem::*;
+    use parcoursdb::gent_wevelgem::repository::*;
     use parcoursdb::classic::Classic;
 
     #[test]

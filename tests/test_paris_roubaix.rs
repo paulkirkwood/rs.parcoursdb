@@ -3,7 +3,7 @@ extern crate chrono;
 
 #[cfg(test)]
 mod test {
-    use parcoursdb::paris_roubaix::*;
+    use parcoursdb::paris_roubaix::repository::*;
     use parcoursdb::classic::{CobbledClassic,Classic};
 
     #[test]

@@ -3,7 +3,7 @@ extern crate chrono;
 
 #[cfg(test)]
 mod test {
-    use parcoursdb::tour_de_france::*;
+    use parcoursdb::tour_de_france::repository::*;
 
     #[test]
     fn test_tour_de_france_1903() {

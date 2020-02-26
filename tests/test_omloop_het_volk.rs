@@ -3,7 +3,7 @@ extern crate chrono;
 
 #[cfg(test)]
 mod test {
-    use parcoursdb::omloop_het_volk::*;
+    use parcoursdb::omloop_het_volk::repository::*;
     use parcoursdb::classic::{BergClassic,CobbledClassic,Classic};
 
     #[test]

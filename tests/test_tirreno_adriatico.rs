@@ -3,7 +3,7 @@ extern crate chrono;
 
 #[cfg(test)]
 mod test {
-    use parcoursdb::tirreno_adriatico::*;
+    use parcoursdb::tirreno_adriatico::repository::*;
 
     #[test]
     fn test_tirreno_adriatico_2013() {

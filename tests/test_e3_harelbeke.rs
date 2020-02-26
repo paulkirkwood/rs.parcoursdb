@@ -3,7 +3,7 @@ extern crate chrono;
 
 #[cfg(test)]
 mod test {
-    use parcoursdb::e3_harelbeke::*;
+    use parcoursdb::e3_harelbeke::repository::*;
     use parcoursdb::classic::Classic;
 
     #[test]

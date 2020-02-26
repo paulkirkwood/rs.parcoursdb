@@ -3,7 +3,7 @@ extern crate chrono;
 
 #[cfg(test)]
 mod test {
-    use parcoursdb::amstel_gold_race::*;
+    use parcoursdb::amstel_gold_race::repository::*;
     use parcoursdb::classic::Classic;
 
     #[test]

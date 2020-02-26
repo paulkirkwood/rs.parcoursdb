@@ -3,7 +3,7 @@ extern crate chrono;
 
 #[cfg(test)]
 mod test {
-    use parcoursdb::la_fleche_wallonne::*;
+    use parcoursdb::la_fleche_wallonne::repository::*;
     use parcoursdb::classic::Classic;
 
     #[test]

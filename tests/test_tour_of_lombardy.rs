@@ -3,7 +3,7 @@ extern crate chrono;
 
 #[cfg(test)]
 mod test {
-    use parcoursdb::tour_of_lombardy::*;
+    use parcoursdb::tour_of_lombardy::repository::*;
     use parcoursdb::classic::{Classic,HillyClassic};
 
     #[test]

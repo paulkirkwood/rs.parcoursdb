@@ -3,7 +3,7 @@ extern crate chrono;
 
 #[cfg(test)]
 mod test {
-    use parcoursdb::tour_of_flanders::*;
+    use parcoursdb::tour_of_flanders::repository::*;
     use parcoursdb::classic::{BergClassic,CobbledClassic,Classic};
 
     #[test]
